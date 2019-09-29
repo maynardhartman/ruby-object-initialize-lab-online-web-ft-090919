@@ -7,4 +7,4 @@ class Dog
     @name = name if name != ""
   end
 end
-
+end
